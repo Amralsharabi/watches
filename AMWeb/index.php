@@ -593,8 +593,5 @@
     <script src="assets/js/owl-carousel.js"></script>
     <script src="assets/js/custom.js"></script>
 </body>
-  <?php
-    include("watch1/php/index1.php");
-  ?>
 </body>
 </html>
