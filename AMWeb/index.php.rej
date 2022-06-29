@@ -1,11 +1,12 @@
 diff a/AMWeb/index.php b/AMWeb/index.php	(rejected hunks)
-@@ -593,8 +593,5 @@
+@@ -592,6 +592,8 @@
+     <script src="assets/js/isotope.min.js"></script>
      <script src="assets/js/owl-carousel.js"></script>
      <script src="assets/js/custom.js"></script>
- </body>
--  <?php
--    include("watch1/php/index1.php");
--  ?>
+-</body>
++  <?php
++    include("watch1/php/index1.php");
++  ?>
  </body>
  </html>
 \ No newline at end of file
