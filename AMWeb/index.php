@@ -592,8 +592,6 @@
     <script src="assets/js/isotope.min.js"></script>
     <script src="assets/js/owl-carousel.js"></script>
     <script src="assets/js/custom.js"></script>
-  <?php
-    include("watch1/php/index1.php");
-  ?>
+</body>
 </body>
 </html>
